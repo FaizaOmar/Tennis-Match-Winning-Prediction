@@ -1,0 +1,105 @@
+Player_Name,Opponent_Name ,ATP Rating_Player,ATP Rating_Oponent,Aces_Player,Aces_Oponent,Double Faults_Player,Double Faults_Oponent,FSP_Player,FSP_Oponent,Result 
+R.Nadal,M.Cilic,1,3,4,13,2,2,72,66,1
+R.Nadal,R.Federer,1,2,4,10,0,0,68,74,0
+R.Nadal,G. Dimitrov,1,4,6,13,2,4,75,75,1
+R.Federer,Juan Del Potro,2,9,7,12,0,1,72,67,1
+R.Federer,R.Gasquet,2,33,5,1,2,0,79,62,1
+M.Cilic,A.Ramos-Vinolas,3,21,10,5,0,2,63,67,1
+Juan Del Potro,V.Troicki,9,67,8,3,1,1,72,75,1
+A.Dolgopolov,R.Federer,34,2,6,11,1,1,62,80,0
+A.Zverev,Juan Del Potro,5,9,22,12,1,0,73,73,0
+S.Johnson,M.Cilic,50,3,8,12,0,2,71,62,0
+S.Querrey,G. Dimitrov,12,4,12,10,4,3,59,64,0
+R.Nadal,F.Fognini,1,22,7,3,0,3,78,56,1
+V.Troicki,J.Isner,67,18,15,9,0,2,80,72,1
+G.Simon,R.Gasquet,64,33,5,7,3,1,60,75,0
+A.Ramos-Vinolas,J.Struff,21,58,7,4,0,5,69,61,1
+R.Nadal,J.Donaldson,1,59,5,4,0,5,72,64,1
+R.Schwartzman,R.Federer,24,2,3,14,1,0,64,65,0
+A.Zverev,A.Bedene,5,52,1,1,0,0,60,46,1
+M.Cilic,K.Edmund,3,26,6,3,1,1,60,64,1
+K.Anderson,J.Struff,11,58,21,9,1,1,72,67,0
+S.Querrey,F. Tiafoe,12,94,24,7,7,1,64,67,1
+G.Simon,D.Goffin,64,7,5,4,0,2,62,65,1
+P.Curreno Busta,A.Ramos-Vinolas,10,21,5,8,1,0,65,66,0
+G.Dimitrov,R.Harrison,4,45,16,10,5,1,63,66,1
+V.Troicki,D.Thiem,67,6,12,19,4,3,63,67,1
+S. Tsitsipas,J.Isner,78,18,16,14,1,2,64,72,0
+F.Fognini,L. Pouille,22,17,9,9,4,0,58,58,1
+Juan Del Potro,A.Rublev,9,36,14,3,1,7,75,60,1
+A.Dolgopolov,F.Lopez,34,37,10,22,1,4,61,69,1
+H.Chung,R.Gasquet,29,33,11,10,4,1,61,71,0
+D.Wu,S.Johnson,255,50,1,7,2,0,48,67,0
+H.Chung,R. Bautista Agut,29,23,5,2,0,1,63,68,1
+S.Querrey,Y.Sugita,12,41,10,6,3,0,57,61,1
+K.Anderson,A. Mannarino,11,25,13,4,0,5,62,62,1
+J.Isner,D. Lajovic,18,84,29,15,2,1,69,76,1
+J. Sock,A. Dolgopolov,8,34,7,9,5,2,56,70,0
+D. Medvedev,L. Pouille,56,17,6,5,1,0,63,71,0
+Juan Del Potro,N. Basilashvili,9,57,3,5,4,1,62,75,1
+A. Bedene,P. Lorenzi,52,46,10,1,0,0,62,57,1
+J. Donaldson,P. Cuevas,59,32,14,12,3,4,65,65,1
+J. Vesely,K.Edmund,61,49,5,15,2,2,73,71,0
+F. Verdasco,F. Fognini,40,22,6,5,3,3,70,71,0
+R. Haase,R.Gasquet,42,33,10,6,2,2,56,63,0
+R. Harrison,Z. Zhang,45,197,8,3,3,6,55,61,1
+F. Lopez,I. Karlovic,37,90,11,23,0,4,71,70,1
+A. Ramos-Vinolas,J. Sousa,21,68,13,8,3,5,56,61,1
+D. Dzumhur,A. Rublev,30,36,4,2,9,1,58,55,0
+J. Thompson,D. Schwartzman,103,24,12,5,2,1,71,63,0
+G. Simon,y.Wu,64,311,7,3,2,3,58,53,1
+F. Tiafoe,B. Paire,94,44,1,16,0,1,63,63,1
+V. Troicki,D. Shapovalov,67,48,7,6,1,5,70,59,1
+S. Tsitsipas,K. Khachanov,78,49,11,3,0,2,62,61,1
+D.Wu,J. Chardy,255,91,8,6,0,2,81,60,1
+M. Jaziri,A. Dolgopolov,110,34,8,7,2,0,62,64,0
+L. Mayer,F. Tiafoe,51,94,13,11,3,0,67,70,0
+D. Lajovic,D. Young,84,65,1,0,0,2,85,65,1
+N. Basilashvili,V. Pospisil,57,85,2,16,4,3,76,58,1
+S. Tsitsipas,Y. Lu,78,81,20,9,2,2,65,72,1
+H. Laaksonen,J. Thompson,124,101,5,8,2,0,56,71,0
+R. Albot,J. Chardy,89,91,3,9,2,0,70,71,0
+A. Dolgopolov,N. Jarry,34,95,9,6,0,4,66,57,1
+L. Mayer,S. Stakhovsky,51,116,11,7,4,1,65,68,1
+B. Coric,H. Laaksonen,47,124,4,6,4,3,62,72,0
+P. Polansky,D. Young,141,65,5,6,4,4,55,67,0
+F. Sun,N. Basilashvili,330,57,4,5,1,3,69,62,0
+Y. Lu,R. Te,81,769,9,7,1,3,65,52,1
+F. Mayer,R. Albot,72,89,2,6,2,0,64,60,0
+S. Tsitsipas,P. Gojowczyk,78,63,15,4,1,0,71,62,1
+Y. Bai,J. Thompson,459,101,6,5,1,0,42,74,0
+Z. Zhang,F. Tiafoe,339,94,10,12,3,3,67,56,0
+D. Lajovic,T. Daniel,84,100,6,6,2,1,68,59,1
+J. Chardy,T. Monteiro,91,118,12,9,2,4,63,78,1
+T. Fritz,V. Pospisil,83,85,11,5,1,4,63,65,0
+M. Jaziri,M. Youzhny,110,92,2,0,0,2,69,85,1
+R. Federer,S. Wawrinka,2,15,2,5,1,3,63,61,1
+S. Wawrinka,P.Curreno Busta,15,10,4,3,0,0,54,80,1
+J. Sock,R. Federer,8,2,4,8,2,2,53,59,0
+N. Kyrgios,N. Djokovic,14,13,14,3,4,0,61,61,1
+P.Curreno Busta,P. Cuevas,10,32,8,7,3,8,68,60,1
+K. Nishikori,J. Sock,27,8,4,1,6,5,65,58,0
+D. Thiem,S. Wawrinka,6,15,7,8,5,2,63,68,0
+P. Cuevas,D. Goffin,32,7,12,3,4,3,68,62,1
+M. Jaziri,J. Sock,110,8,11,13,5,8,55,50,0
+P.Curreno Busta,D. Lajovic,10,84,7,4,1,1,71,59,1
+J. del Potro,N. Djokovic,9,13,13,4,3,1,68,64,0
+D. Thiem,G. Monfils,6,43,6,5,1,0,54,53,1
+P.Kohlschreiber,S. Wawrinka,35,15,1,7,2,1,57,58,0
+K. Nishikori,G. Muller,27,28,3,10,1,6,78,49,1
+R. Nadal,F. Verdasco,1,40,1,0,1,7,73,80,1
+M. Zverev,D. Thiem,53,6,3,7,4,0,54,71,0
+S. Johnson,R. Federer,50,2,3,12,4,4,67,60,0
+G. Monfils,J. Isner,43,18,3,4,1,2,66,63,1
+A.Ramos-Vinolas,D. Goffin,21,7,6,9,1,2,63,60,0
+J. Sock,G. Dimitrov,8,4,8,14,5,4,55,75,1
+T. Berdych,Y. Nishioka,16,154,8,5,10,2,50,67,0
+M. Jaziri,T. Fritz,110,83,7,7,4,0,41,53,1
+D. Lajovic,V. Pospisil,84,85,1,6,1,5,71,52,1
+F. Fognini,P. Cuevas,22,32,3,5,2,2,74,72,0
+N. Kyrgios,A. Zverev,14,5,6,5,2,5,64,48,1
+D. Young,L. Pouille,65,17,5,6,7,7,50,59,1
+A. Murray,V. Pospisil,20,85,3,5,7,2,63,68,0
+K. Edmund,N. Djokovic,26,13,4,3,3,3,60,66,0
+M. Youzhny,G. Dimitrov,92,4,2,7,6,1,55,60,0
+R. Nadal,G. Pella,1,60,2,4,1,1,63,59,1
